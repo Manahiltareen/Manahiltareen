@@ -107,7 +107,12 @@
 
 ### 💬 Developer Quote of the Day
 
+<!-- Developer Quote as Image -->
 <p align="center">
-  <img src="https://readme-quote.vercel.app/api?quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it’s%20bad.&author=Cory%20House&theme=dark" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&width=600&lines=Code.+Create.+Conquer.;Crafting+beautiful+apps+with+Flutter+%26+Dart;Learning+daily%2C+building+always.">
 </p>
+
+
+
+
 
