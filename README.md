@@ -109,7 +109,7 @@
 
 <!-- Developer Quote as Image -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&width=600&lines=Code.+Create.+Conquer.;Crafting+beautiful+apps+with+Flutter+%26+Dart;Learning+daily%2C+building+always.">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&width=600&lines=Code.+Create.+Conquer.;">
 </p>
 
 
