@@ -58,7 +58,7 @@
   <br/>
   <img src="https://img.shields.io/github/stars/Manahiltareen?affiliations=OWNER&style=flat-square&logo=github&color=FFD700" alt="Stars" />
   <img src="https://img.shields.io/github/followers/Manahiltareen?style=flat-square&logo=github&color=1E90FF" alt="Followers" />
-  <img src="https://img.shields.io/github/commit-activity/y/Manahiltareen?style=flat-square&logo=github&color=32CD32" alt="Commit Activity" />
+<!--   <img src="https://img.shields.io/github/commit-activity/y/Manahiltareen?style=flat-square&logo=github&color=32CD32" alt="Commit Activity" /> -->
 </div>
 
 ---
