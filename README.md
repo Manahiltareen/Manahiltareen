@@ -2,7 +2,7 @@
 <h3 align="center">Flutter Developer | Firebase Enthusiast | API Integrator | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=BS+CS+Student+%F0%9F%93%9D;Flutter+Developer+%F0%9F%93%B1;Firebase+%7C+REST+API+%7C+GetX+BLoC;Learning+AI+%7C+Python+%7C+Backend" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=BS+CS+Student+%F0%9F%93%9D;Flutter+Developer+%F0%9F%93%B1;Firebase+%7C+REST+API+%7C+GetX+BLoC;Learning+AI+%7C+Python+%7C+Backend" alt="Typing SVG" />
 </p>
 
 ---
@@ -35,27 +35,39 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Analytics (Auto-Updated)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manahiltareen&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Manahiltareen&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manahiltareen&layout=compact&theme=radical" height="170"/>
 </p>
 
 ---
 
-### 🔥 GitHub Streak
+### 🔥 GitHub Streak (Live Updates)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Manahiltareen&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=Manahiltareen&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### ⭐ Stars & Trophies
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Manahiltareen?style=social" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Manahiltareen&theme=radical&column=4&no-frame=true" />
+</p>
+
+---
+
+### 📊 Contribution Graph (Dynamic)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manahiltareen&theme=radical" />
 </p>
 
 ---
@@ -107,12 +119,6 @@
 
 ### 💬 Developer Quote of the Day
 
-<!-- Developer Quote as Image -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&width=600&lines=Code.+Create.+Conquer.;">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&width=600&lines=Code.+Create.+Conquer.;Keep+Learning%2C+Keep+Building." />
 </p>
-
-
-
-
-
