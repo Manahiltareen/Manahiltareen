@@ -8,7 +8,6 @@
 ---
 
 ### 🛠️ Tech Stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -26,75 +25,68 @@
 ---
 
 ### 🌟 Achievements & Projects
-
-* 🔥 **Intern @ AppidCore**: Full-stack Flutter (Admin, Frontend, Backend)
-* 🛍️ **Grocery App**: Firebase + GetX State Management
-* 📲 **Chat App**: Real-time messaging with Firestore & Firebase Auth
-* 🤖 **AI Detection System**: Built with Python + OpenCV
-* 📚 **Teaching Flutter**: Sharing dev content on YouTube (`@codewithmanahil`)
+- 🔥 **Intern @ AppidCore** → Full-stack Flutter (Admin, Frontend, Backend)  
+- 🛍️ **Grocery App** → Firebase + GetX State Management  
+- 📲 **Chat App** → Real-time messaging (Firestore & Firebase Auth)  
+- 🤖 **AI Detection System** → Python + OpenCV  
+- 📚 **Teaching Flutter** → Sharing dev content on YouTube (`@codewithmanahil`)  
 
 ---
-
-### 📊 GitHub Analytics (Auto-Updated)
-
+### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manahiltareen&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manahiltareen&layout=compact&theme=radical" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Manahiltareen&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
 
-### 🔥 GitHub Streak (Live Updates)
-
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Manahiltareen&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" />
+  
+<img src="https://github-readme-stats.vercel.app/api?username=ManahilTareen&show_icons=true&count_private=true&theme=tokyonight&cache_seconds=130&v=1" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manahiltareen&layout=compact&theme=tokyonight" height="170"/>
 </p>
+
 
 ---
 
-### ⭐ Stars & Trophies
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/Manahiltareen?style=social" />
-</p>
-
+### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Manahiltareen&theme=radical&column=4&no-frame=true" />
 </p>
 
 ---
 
-### 📊 Contribution Graph (Dynamic)
-
+### ⭐ GitHub Achievements
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manahiltareen&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manahiltareen&theme=tokyonight" />
+  <br/>
+  <img src="https://img.shields.io/github/stars/Manahiltareen?affiliations=OWNER&style=for-the-badge&logo=github&color=yellow" />
+  <img src="https://img.shields.io/github/followers/Manahiltareen?style=for-the-badge&logo=github&color=blue" />
+  <img src="https://img.shields.io/github/commit-activity/y/Manahiltareen?style=for-the-badge&logo=github&color=green" />
 </p>
 
 ---
 
 ### 🚀 Pinned Repositories
-
 <p align="center">
   <a href="https://github.com/Manahiltareen/portfolio_web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manahiltareen&repo=portfolio_web&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manahiltareen&repo=portfolio_web&theme=tokyonight" />
   </a>
   <a href="https://github.com/Manahiltareen/Grocery-App-Admin-Side">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manahiltareen&repo=Grocery-App-Admin-Side&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manahiltareen&repo=Grocery-App-Admin-Side&theme=tokyonight" />
   </a>
 </p>
 
 ---
 
 ### ✨ Fun Fact
-
 > 🧠 I turn coffee into Flutter apps ☕  
 > 🔧 Currently building AI-powered mobile apps  
-> 💡 Passionate about solving real-world problems with code
+> 💡 Passionate about solving real-world problems with code  
 
 ---
 
 ### 📫 Let's Connect!
-
 <p align="center">
   <a href="https://www.linkedin.com/in/manahil-tareen-3b8870308">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
@@ -110,15 +102,13 @@
 ---
 
 ### 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Manahiltareen/Manahiltareen/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
 
-### 💬 Developer Quote of the Day
-
+### 💬 Developer Quote
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&width=600&lines=Code.+Create.+Conquer.;Keep+Learning%2C+Keep+Building." />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&width=600&lines=Code.+Create.+Conquer.;">
 </p>
