@@ -47,7 +47,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ziauddin-developer&theme=onedark&column=4&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Manahiltareen&theme=onedark&column=4&margin-w=10&margin-h=10" />
 </p>
 
 ---
