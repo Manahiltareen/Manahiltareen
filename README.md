@@ -32,7 +32,7 @@
 
 ### 🔥 GitHub Streak
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Manahiltareen&theme=highcontrast&hide_border=true&card_width=450" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Manahiltareen&theme=highcontrast&hide_border=true&card_width=450" alt="GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Manahiltareen&theme=highcontrast&hide_border=true&card_width=450" />
 </div>
 
 ---
