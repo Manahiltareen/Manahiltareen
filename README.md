@@ -47,7 +47,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manahiltareen&theme=onedark&column=4&margin-w=10&margin-h=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Manahiltareen&theme=highcontrast&hide_border=true&card_width=450" />
 </p>
 
 ---
